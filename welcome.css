@@ -1,0 +1,30 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.welcome-logo {
+  text-align: center;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+#wel-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vh;
+}
+
+.about {
+  margin: 5vh;
+}
+
+.para {
+  line-height: 1cm;
+}
+
+.foot {
+  display: flex;
+  margin: 5vh;
+  justify-content: space-around;
+}
